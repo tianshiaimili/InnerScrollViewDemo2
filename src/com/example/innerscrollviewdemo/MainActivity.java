@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
-
+///////test
 public class MainActivity extends Activity {
 
 	InnerScrollView innerScrollView;
