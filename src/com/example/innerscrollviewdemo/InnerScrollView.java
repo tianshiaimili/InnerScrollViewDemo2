@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.ScrollView;
-
+///////test github
 public class InnerScrollView extends ScrollView{
 
 	  Handler handler;
